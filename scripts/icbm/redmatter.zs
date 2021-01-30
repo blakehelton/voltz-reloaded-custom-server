@@ -1,0 +1,2 @@
+recipes.remove(<icbmclassic:explosives:23>);
+recipes.addShaped("icbmclassic:explosives/redmatter", <icbmclassic:explosives:23>, [[<nuclearphysics:darkmatter_cell:0>, <nuclearphysics:darkmatter_cell:0>, <nuclearphysics:darkmatter_cell:0>], [<nuclearphysics:darkmatter_cell:0>, <icbmclassic:explosives:22>, <nuclearphysics:darkmatter_cell:0>], [<nuclearphysics:darkmatter_cell:0>, <nuclearphysics:darkmatter_cell:0>, <nuclearphysics:darkmatter_cell:0>]]);

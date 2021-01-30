@@ -1,0 +1,2 @@
+recipes.remove(<icbmclassic:explosives:22>);
+recipes.addShaped("icbmclassic:explosives/antimatter", <icbmclassic:explosives:22>, [[<nuclearphysics:antimatter_cell:1>, <nuclearphysics:antimatter_cell:1>, <nuclearphysics:antimatter_cell:1>], [<nuclearphysics:antimatter_cell:1>, <icbmclassic:explosives:15>, <nuclearphysics:antimatter_cell:1>], [<nuclearphysics:antimatter_cell:1>, <nuclearphysics:antimatter_cell:1>, <nuclearphysics:antimatter_cell:1>]]);
